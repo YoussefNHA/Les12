@@ -1,0 +1,27 @@
+
+header {
+    background-color: powderblue;
+    color: green;
+}
+
+td#cel1 {background-color: #99FFFF;}
+td#cel2 {background-color: #00FFFF;}
+td#cel3 {background-color: #FF66FF;}
+td#cel4 {background-color: #FF9900;}
+td#cel5 {background-color: #669933;}
+td#cel6 {background-color: #000066;}
+td#cel7 {background-color: #33FF66;}
+td#cel8 {background-color: #CC00CC;}
+td#cel9 {background-color: #993399;}
+td#cel10 {background-color: #FF0033;}
+td#cel11 {background-color: #FF9966;}
+td#cel12 {background-color: #FFFF00;}
+td#cel13 {background-color: #CC9966;}
+td#cel14 {background-color: #009900;}
+td#cel15 {background-color: #99CC99;}
+td#cel16 {background-color: #FF99FF;}
+
+footer {
+    background-color: yellow;
+    color: blue;
+}
